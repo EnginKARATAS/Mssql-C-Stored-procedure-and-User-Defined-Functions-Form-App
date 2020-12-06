@@ -34,6 +34,9 @@ As
 Select @ID=ID, @ADI=ADI,@SOYADI=SOYADI From Musteri Where ID=@ID
 
 <strong>Finally</strong>
+
+![](img/3333.png) <br>
+
 <h3>
 download repo, run & compile 
 into c#..
