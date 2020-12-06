@@ -32,8 +32,10 @@ Create Proc Musteriler
 As
 Select @ID=ID, @ADI=ADI,@SOYADI=SOYADI From Musteri Where ID=@ID
 
+<strong>Finally</strong>
 <h3>
-and run into c#..
+download repo, run & compile 
+into c#..
 </h3>
 
 
