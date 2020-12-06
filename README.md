@@ -3,7 +3,7 @@
  
  To Use 
 
-<h1> run those tree of block of code from mssql </h1>
+<h1> Run these 3 code blocks from mssql </h1>
 
 <h1>block one</h1>
 
