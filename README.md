@@ -1,5 +1,5 @@
 # Mssql C#Stored procedure and User Defined Functions Form App
-![](Mssql-C-Stored-procedure-and-User-Defined-Functions-Form-App.png)
+![](img/1.png)
  7th semester Stored procedure Mssql Functions  simple
  
  To Use 
