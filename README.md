@@ -1,5 +1,5 @@
 # Mssql C#Stored procedure and User Defined Functions Form App
-https://github.com/EnginKARATAS/Mssql-C-Stored-procedure-and-User-Defined-Functions-Form-App/blob/main/Mssql%20-%20C%23%20Stored%20procedure%20and%20User%20Defined%20Functions%20Form%20App.png
+![Mssql-C-Stored-procedure-and-User-Defined-Functions-Form-App.png]
  7th semester Stored procedure Mssql Functions  simple
  
  To Use 
